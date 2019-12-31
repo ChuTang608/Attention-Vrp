@@ -1,2 +1,10 @@
 # Attention-Vrp
-intern project
+
+@inproceedings{
+    kool2018attention,
+    title={Attention, Learn to Solve Routing Problems!},
+    author={Wouter Kool and Herke van Hoof and Max Welling},
+    booktitle={International Conference on Learning Representations},
+    year={2019},
+    url={https://openreview.net/forum?id=ByxBFsRqYm},
+}
